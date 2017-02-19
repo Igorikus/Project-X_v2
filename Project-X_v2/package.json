@@ -1,0 +1,8 @@
+{
+    "name": "Project-X_v2",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Mendax",
+    "contributors": [],
+    "dependencies": {}
+}
