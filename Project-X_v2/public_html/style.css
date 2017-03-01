@@ -1,10 +1,14 @@
 
+body, html {
+    height: 100%;
+} 
+
 .parallax { 
     /* The image used */
     background-image: url("background/jeans_background.jpg");
 
-    /* Set a specific height */
-    height: 700px; 
+    /* Full height */
+    height: 100%; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -12,6 +16,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .container h1 {
     color: #fff;
     height: 100px;
@@ -21,3 +26,10 @@
     margin: 0 auto;
     color: #fff;
 }  
+p {
+    color: #fff;
+}
+#log-in {
+    margin: 0 auto;
+    color: #fff;
+}
