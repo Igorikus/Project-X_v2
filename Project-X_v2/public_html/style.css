@@ -26,18 +26,15 @@ p {
     display: inline-block;
     padding-left: 10px;
     padding-right: 10px;
+    font-family: monospace;
     
-
 }
+
 .navigation a {
     color: #fff;    
 }
 .navigation a:hover {
     text-decoration: none;
     color: #000;
-    border: 10px;
-    
-}
-.navigation a:active {
-    border-width: 5px;
+    border: 10px;   
 }
