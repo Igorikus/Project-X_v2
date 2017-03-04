@@ -1,22 +1,4 @@
 
-body, html {
-    height: 100%;
-} 
-
-.parallax { 
-    /* The image used */
-    background-image: url("background/jeans_background.jpg");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .container h1 {
     color: #fff;
     height: 100px;
@@ -28,4 +10,34 @@ body, html {
 }  
 p {
     color: #fff;
+}
+.navbar-fixed-top {
+    padding-top: 20px;
+}
+
+.navigation {
+    list-style: none;
+    padding-left: 0; 
+    text-align: center;
+    
+}
+.navigation li {
+    font-size: 18px;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+}
+.navigation a {
+    color: #fff;    
+}
+.navigation a:hover {
+    text-decoration: none;
+    color: #000;
+    border: 10px;
+    
+}
+.navigation a:active {
+    border-width: 5px;
 }
