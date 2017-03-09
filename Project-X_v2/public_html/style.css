@@ -43,22 +43,4 @@ p {
 #social a {
     color: #000;
 }
-div.background {
-    border: 1px solid;   
-}
-div.transbox {
-    margin: 50px;
-    background-color: #fff;
-    border: 1px solid;
-    opacity: 0.6;
-}
-div.transbox p {
-    margin: 5%;
-    font-weight: bold;
-    color: #000;
-}    
-div.transbox h1 {
-    margin: 5%;
-    font-weight: bold;
-    color: #000;
-} 
+
