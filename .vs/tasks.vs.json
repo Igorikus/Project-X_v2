@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-main-page",
+      "appliesTo": "Project-X_v2/public_html/main-page.html",
+      "type": "command"
+    }
+  ]
+}
